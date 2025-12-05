@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Colab / Jupyter stuff
+.ipynb_checkpoints/
+
+# Local environment
+.env
+venv/
+.env.json
+
+# Sensitive tokens / keys
+tokens.json
+*token*.json
+*.secret
+client_secrets.json
+
+# Data that shouldn't go public
+raw_data/
