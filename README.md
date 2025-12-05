@@ -84,7 +84,26 @@ The **PlanViz** folder includes tools to evaluate and compare training plans.
 
 ### 🔸 Weekly Mileage Comparison:
 
-Weekly mileage comparison performed against multiple training plans avalaible on the internet. These popular plans are followed by athletes all over the world and are generic in nature.
+Weekly mileage comparison performed against multiple training plans avalaible on the internet. These popular plans are followed by athletes all over the world and are generic in nature.  
+
+### Following examples are for a 10K-Novice Runner labelled as **GTP**:
+
+#### Weekly Mileage Comparison
+<img width="1000" height="600" alt="10knov_VizWM" src="https://github.com/user-attachments/assets/d67f3e2f-339a-4af9-968c-fe69709882b4" />
+
+### 🔸 Long Run Comparison:
+
+The long runs for every week are compared against the training plan generated. The long runs are generally done during the weekend and are progressive in nature. They finally taper in the final few weeks of training.
+
+#### Long Run Comparison
+<img width="1000" height="600" alt="10knov_VizLR" src="https://github.com/user-attachments/assets/9b8b5b34-2e53-491e-9347-22a953104cb1" />
+
+### 🔸 Run Count:
+
+Run count shows us the number of training days every week. They help us understand the frequency of runs performed weekly.
+
+#### Run Count Comparison
+<img width="1000" height="600" alt="10knov_VizRC" src="https://github.com/user-attachments/assets/4dc8def3-5b40-4d41-ac1d-05d3d95a1e9b" />
 
 ### 🔸 Intensity Zone Analysis
 
@@ -95,6 +114,9 @@ Using 5 standard training zones:
 * Zone 3: Tempo / brisk
 * Zone 4: Threshold / Intervals (400–600 m)
 * Zone 5: High intensity (800–1000 m intervals)
+
+![5kadv_Zones](https://github.com/user-attachments/assets/b5ad1241-79e4-43f3-a2a7-eb7394fbbd52)
+
 
 ### 🔸 Athlete Clustering
 
